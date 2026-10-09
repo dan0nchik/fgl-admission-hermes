@@ -1,0 +1,3 @@
+openai>=1.40
+httpx
+hermes-agent  # optional: real Hermes curator prompt + skills_guard scanner; harness falls back without it
